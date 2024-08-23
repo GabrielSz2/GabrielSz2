@@ -25,5 +25,3 @@ Check out some of my GitHub statistics that showcase my journey in coding:
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSz2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielSz2&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSz2&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
