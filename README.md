@@ -1,9 +1,5 @@
 # Gabriel Souza
 
-### Welcome! 👋
-
-I'm Gabriel Souza, an eternal learner of the boundless world of technology. I thrive on exploring new challenges and constantly expanding my knowledge. My journey in tech is driven by passion, curiosity, and a relentless pursuit of excellence.
-
 ## 🌐 Connect with Me
 
 Let's connect and share knowledge! Feel free to reach out to me through the platforms below:
